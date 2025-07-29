@@ -1,2 +1,2 @@
-# FIS
-Implementations of GMRES and Conjugate Gradient in C++ using only C native functions
+# GMRES
+Implementations of Generalized minimal residual method (GMRES) in C++ to solve linear systems using only C native functions. Includes implementations of mathematical operations on vectors and matrices.
